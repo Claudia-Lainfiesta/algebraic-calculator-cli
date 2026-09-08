@@ -1,8 +1,8 @@
 # Importamos el módulo re para hacer la búsqueda de espacios extra en la entrada
 import re
 # Creadores:
-# Hamlet Oswaldo Pernilla De Leon - 24007273 - BN.
-# María Claudia Lainfiesta Herrera - 24000149 - BN.
+# Hamlet Oswaldo Pernilla De Leon.
+# María Claudia Lainfiesta Herrera.
 #---------------------------------------------------------------------------------------------
 #SUBRUTINAS DE OPERACIONES DE DOS NÚMEROS.
 #Subrutina --> suma de números.
@@ -228,8 +228,8 @@ def evaluacion(operacion):
 def main():
     #Inicio de programa, información básica.
     print("CREADORES: ")
-    print("Hamlet Oswaldo Pernilla De Leon - 24007273 - BN.")
-    print("María Claudia Lainfiesta Herrera - 24000149 - BN.")
+    print("Hamlet Oswaldo Pernilla De Leon.")
+    print("María Claudia Lainfiesta Herrera.")
     print("--------------------------------------------------------------------------")
     print("¡BIENVENIDO A CODECALC!")
     print("Ingrese su operación con la siguiente sintaxis: (operador numero1 numero2).")
