@@ -1,4 +1,4 @@
-# CODECALC 🧮
+# CODECALC
 
 Calculadora en consola desarrollada en Python para la evaluación de expresiones matemáticas en notación infija con paréntesis. Soporta operaciones aritméticas básicas, funciones trigonométricas y operaciones especiales con un sistema de manejo de errores.
 
